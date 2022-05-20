@@ -3,6 +3,6 @@
   "singleQuote": true,
   "trailingComma": "none",
   "vueIndentScriptAndStyle": true,
-  "bracketSameLine": true,
+  "bracketSameLine": false,
   "singleAttributePerLine": true
 }

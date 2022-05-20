@@ -1,21 +1,18 @@
 <script>
-
-
-
-
-export default {
-  components: {},
+  export default {
+    components: {}
   }
 </script>
 <style>
-body{
-  background-image: url("../assets/anime<3.jpg");
-  text-align: center;
-}
+  body {
+    background-image: url('../assets/anime<3.jpg');
+    text-align: center;
+  }
 
-.testsss{
-  display: inline-block ;
-  margin:1em;}
+  .testsss {
+    display: inline-block;
+    margin: 1em;
+  }
 </style>
 
 <template>
